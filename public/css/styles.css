@@ -1,0 +1,73 @@
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+.navbar-nav  li a {
+  color: black;
+  
+}
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+#navC {
+  background-color: #8675a9;
+  color: white;
+  font-family: "Montserrat";
+  margin-bottom: 2rem;
+}
+
+#perticular {
+  background-color: #b2ebf2;
+}
+
+#composebtn {
+  color: white;
+  text-decoration: none;
+}
+
+#local {
+  background-color: #d3dadb;
+  padding: 1rem;
+}
+
+#socialicon {
+  margin: 4rem;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.navbar-nav  li a:hover {
+    color: white !important;
+}
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+	position: absolute;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+  background-color: #ffd5cd;
+}
+
+.footer p {
+	margin-top: 20px;
+}
